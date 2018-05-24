@@ -1,0 +1,6 @@
+---
+output: html_document
+---
+Land cover describes the extent of vegetation, water bodies, built environments, and bare natural surfaces (eg gravel and rock) across New Zealand. Measuring the composition and changes in land cover can help us understand the pressures that different land uses are placing on the biodiversity and functioning of ecosystems. Land cover classes are based on those used by LAWA. This app uses information from the Land Cover Database v4.1. It excludes land cover from the Chatham Islands. Data was sourced from Manaaki Whenua Landcare Research, and is available for download at <a href="https://lris.scinfo.org.nz/layer/48423-lcdb-v41-land-cover-database-version-41-mainland-new-zealand/" target="_blank">LRIS</a>. Published April 2018 by Ministry for the Environment and Stats NZ. See <a href="http://www.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Land.aspx" target="_blank">Land cover</a> for related commentary.
+
+![](cc_compact.png) This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.
